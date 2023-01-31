@@ -1,3 +1,4 @@
+﻿//Author: José Victor - Eu marco a autoria apenas porque fiz esse commit em outra conta
 //Tipos básicos
 let id: number = 5
 let company: string = 'Uma string'
